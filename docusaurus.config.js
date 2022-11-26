@@ -70,8 +70,8 @@ const config = {
             label: 'قاموس الحروف',
           },
           {to: '/blog', label: 'المقالات', position: 'left'},
-          {to: '/denote', label: 'تبرع للموقع',position:'left'},
-          {to: '/contact-us', label: 'تواصل معنا',position:'left'},
+          // {to: '/denote', label: 'تبرع للموقع',position:'left'},
+          // {to: '/contact-us', label: 'تواصل معنا',position:'left'},
 
          
         ],
